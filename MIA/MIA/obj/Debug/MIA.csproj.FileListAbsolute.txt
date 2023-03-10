@@ -1,0 +1,14 @@
+C:\Users\ikram\source\repos\MIA\MIA\bin\Debug\MIA.exe.config
+C:\Users\ikram\source\repos\MIA\MIA\bin\Debug\MIA.exe
+C:\Users\ikram\source\repos\MIA\MIA\bin\Debug\MIA.pdb
+C:\Users\ikram\source\repos\MIA\MIA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ikram\source\repos\MIA\MIA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.csproj.AssemblyReference.cache
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.Form1.resources
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.Properties.Resources.resources
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.csproj.GenerateResource.cache
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.csproj.CoreCompileInputs.cache
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.csproj.CopyComplete
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.exe
+C:\Users\ikram\source\repos\MIA\MIA\obj\Debug\MIA.pdb
